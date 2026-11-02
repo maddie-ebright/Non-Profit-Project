@@ -103,3 +103,5 @@ The full report includes organizational assessments, research findings, stakehol
 ---
 
 *This project was completed for academic purposes. The findings and recommendations represent my independent research and analysis and do not constitute an official strategic plan adopted by Sierra Forever.*
+
+*If you want the pdf of the report I can email it. It was too big to upload into github.
